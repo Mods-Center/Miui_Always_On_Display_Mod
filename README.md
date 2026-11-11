@@ -15,25 +15,25 @@
 > [!WARNING]
 > **Legacy MIUI project. No longer updated.** It's kept for MIUI 12–13 users. HyperOS users: see [HyperOS AOD Mod](https://github.com/Mods-Center/HyperOS-AOD).
 
-## ✨ Features
+## Features
 - 10-second limit removed
 - Notification option
 - Online AOD themes
 - More options unlocked
 
-## 📋 Requirements
+## Requirements
 - MIUI 12–13, Android 10 or newer
 - Magisk
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Miui_Always_On_Display_Mod/releases/latest).
 2. Flash it in Magisk.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - If you use this in your ROM, please credit Mods Center. Not for paid ROMs.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://64.media.tumblr.com/ab5aeb3d1c40dbd6d200f12620c6f6f3/f99ab4335b7dd438-4a/s1280x1920/308caf68090cd357116c64e0fca8accdc687f3d7.pnj" width="23%" alt="MIUI AOD"/>
   <img src="https://64.media.tumblr.com/5190d0e2115c99301f8aeed8e6365119/f99ab4335b7dd438-ac/s1280x1920/947b081f95227bcd263fc4883bb5f3382307542e.pnj" width="23%" alt="MIUI AOD"/>
@@ -45,8 +45,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Miui_Always_On_Display_Mod/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Miui_Always_On_Display_Mod/issues)
 
 </div>
